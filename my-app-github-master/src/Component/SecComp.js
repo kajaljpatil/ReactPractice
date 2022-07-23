@@ -20,6 +20,7 @@ const SecComp = () => {
 
     console.log(name);
     console.log();
+    console.log("Kajal");
   }, [flag]); //hook
   // Mount => first load / on load => []
   // Update => first load / on load => [drink]
