@@ -18,7 +18,7 @@ const Counter = () => {
     }, [])
 
     useEffect(() => {
-        alert(`count change ${count} zala re bho!!`)
+        alert(`count change ${count} done!!`)
     },[count])
 
 
